@@ -1,0 +1,2 @@
+This is example number 1.
+Please note that this simple code only refresh the screen to red color.
